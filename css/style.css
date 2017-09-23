@@ -1,0 +1,12 @@
+.masthead {
+    height: 1000px;
+}
+
+.section-subheading {
+    font-size: 2rem !important;
+}
+
+footer {
+    background-color: #222222;
+    color: white;
+}
